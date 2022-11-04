@@ -1,5 +1,5 @@
 {
-  "contentHash": "a1baec87b600371a9cd21b7bba9f681d22eaec829d5c2f7a6d0c5ef3e9f7f7b2",
+  "contentHash": "553598ba820e3d744fde7c9c5bc8ad56af5f6572175a74025f767cdd2fe61400",
   "files": [
     {
       "name": "bin",
@@ -2132,6 +2132,81 @@
     {
       "name": "lib/python3.10/socketserver.py",
       "size": 27296,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/sqlite3/__init__.py",
+      "size": 2536,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/dbapi2.py",
+      "size": 3323,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/dump.py",
+      "size": 3292,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/__init__.py",
+      "size": 0,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/backup.py",
+      "size": 5849,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/dbapi.py",
+      "size": 39318,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/dump.py",
+      "size": 4671,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/factory.py",
+      "size": 12128,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/hooks.py",
+      "size": 10911,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/regression.py",
+      "size": 17322,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/transactions.py",
+      "size": 7479,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/types.py",
+      "size": 16723,
+      "perm": 436
+    },
+    {
+      "name": "lib/python3.10/sqlite3/test/userfunctions.py",
+      "size": 19576,
       "perm": 436
     },
     {

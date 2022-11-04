@@ -41,7 +41,6 @@ var removeLibs = []string{
 	"multiprocessing",
 	"pydoc_data",
 	"site-packages",
-	"sqlite3",
 	"test",
 	"turtledemo",
 	"venv",

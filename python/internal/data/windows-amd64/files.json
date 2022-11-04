@@ -1,5 +1,5 @@
 {
-  "contentHash": "98a4d2811f833873c8dd1c5e705b81006d73adc924a2a9c012554d3f1f7fa134",
+  "contentHash": "e0100e0128fa004db0e0f7ee1a858333df6a1c9dfaffd752b1d8249484aac2ab",
   "files": [
     {
       "name": "DLLs",
@@ -2208,6 +2208,81 @@
     {
       "name": "Lib/socketserver.py",
       "size": 27296,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/sqlite3/__init__.py",
+      "size": 2536,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/dbapi2.py",
+      "size": 3323,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/dump.py",
+      "size": 3292,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test",
+      "size": 0,
+      "perm": 2147484141
+    },
+    {
+      "name": "Lib/sqlite3/test/__init__.py",
+      "size": 0,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/backup.py",
+      "size": 5849,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/dbapi.py",
+      "size": 39318,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/dump.py",
+      "size": 4671,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/factory.py",
+      "size": 12128,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/hooks.py",
+      "size": 10911,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/regression.py",
+      "size": 17322,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/transactions.py",
+      "size": 7479,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/types.py",
+      "size": 16723,
+      "perm": 438
+    },
+    {
+      "name": "Lib/sqlite3/test/userfunctions.py",
+      "size": 19576,
       "perm": 438
     },
     {
